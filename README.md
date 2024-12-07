@@ -1,18 +1,7 @@
-# 👋 Привет! Я [Артем]
+Hi! I'm based in Belarus and currently developing a cryptocurrency exchange platform with a focus on security and user convenience. I'm looking for like-minded individuals from Belarus who are passionate about blockchain and crypto technologies.
 
-## 
-- 🛠️ Разработчик с фокусом на блокчейн, криптовалюты и технологии.
-- 📚 Изучаю AI/ML и их применение в DeFi.
-- 💡 Интересуюсь созданием DApps, смарт-контрактами и Layer 2 решениями.
+If you're skilled in development, UI/UX design, marketing, or have expertise in cryptocurrency regulations in Belarus, let's collaborate! My goal is to create a platform that serves both local and international markets. Together, we can drive innovation and make a mark in the crypto world from our country!
 
-## 🔗 Технологии
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat)
+Привет! Я из Беларуси и занимаюсь разработкой проектов, связанных с криптовалютами и блокчейном. Сейчас работаю над созданием инновационного веб-ресурса для обмена криптовалют, который будет максимально удобным и безопасным для пользователей. Ищу единомышленников из Беларуси, которые разделяют интерес к криптотехнологиям.
 
-## 🛠️ Мои проекты
-### [💰 Crypto Wallet Tracker](https://github.com/ваш-проект)
-- Легковесный трекер криптокошельков с аналитикой.
-### [📈 DeFi Yield Aggregator](https://github.com/ваш-проект)
-- Смарт-контракт для автоматизации фарминга в DeFi.
+Если вы разбираетесь в разработке, UI/UX-дизайне, маркетинге или юридических аспектах криптовалют в РБ, присоединяйтесь! Хочу создать платформу, которая станет надёжным решением как для локального, так и для международного рынка. Вместе мы можем продвинуть технологии на новый уровень в нашей стране!
